@@ -8,6 +8,7 @@ Local dependencies:
 <ul>
 <li>Data-Clustering/Libs/Point</li>
 <li>Data-Clustering/Libs/Data</li>
+<li>Data-Clustering/Libs/Data_tools</li>
 <li>Data-Clustering/Libs/Ploting_tools</li>
 <li>Data-Clustering/Libs/Files_tools</li>
 </ul>
